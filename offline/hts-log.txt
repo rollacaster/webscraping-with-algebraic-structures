@@ -1,0 +1,19 @@
+HTTrack3.48-21 launched on Tue, 10 Oct 2017 21:43:30 at https://blog.reactiveconf.com/open-call-for-reactiveconf-lightning-talks-2017-a4f5394e5f96 +gist.github.com/* +github.com/*
+(httrack https://blog.reactiveconf.com/open-call-for-reactiveconf-lightning-talks-2017-a4f5394e5f96 -O /Users/thomas/Projects/reactive-conf/offline/ -r2 +gist.github.com/* +github.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:43:32	Warning: 	Note: due to https://blog.reactiveconf.com remote robots.txt rules, links beginning with these path will be forbidden: /m/, /me/, /@me$, /@me/, /*/*/edit (see in the options to disable this)
+21:44:40	Error: 	"Not Found" (404) at link https://blog.reactiveconf.com/android-app://com.medium.reader/https/medium.com/p/a4f5394e5f96 (from https://blog.reactiveconf.com/open-call-for-reactiveconf-lightning-talks-2017-a4f5394e5f96)
+21:44:44	Warning: 	Moved Permanently for gist.github.com/robots.txt
+21:44:44	Warning: 	Redirected link is identical because of 'URL Hack' option: gist.github.com/robots.txt and https://gist.github.com/robots.txt
+21:44:44	Warning: 	Warning moved treated for gist.github.com/robots.txt (real one is https://gist.github.com/robots.txt)
+21:44:44	Warning: 	Moved Permanently for gist.github.com/
+21:44:44	Warning: 	Redirected link is identical because of 'URL Hack' option: gist.github.com/ and https://gist.github.com/
+21:44:44	Warning: 	File has moved from gist.github.com/ to https://gist.github.com/
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 minutes 16 seconds : 39 links scanned, 33 files written (3517026 bytes overall), 35 files updated [708305 bytes received at 9319 bytes/sec], 3543971 bytes transferred using HTTP compression in 35 files, ratio 17%, 1.3 requests per connection
+(1 errors, 7 warnings, 0 messages)
