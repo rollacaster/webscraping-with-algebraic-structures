@@ -12,7 +12,7 @@
   "author": "Thomas Sojka",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "cheerio": "^1.0.0-rc.2",
     "live-server": "^1.2.0",
     "natural": "^0.5.4",
