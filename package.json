@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "cheerio": "^1.0.0-rc.2",
-    "live-server": "^1.2.0",
+    "live-server": "^1.2.2",
     "natural": "^0.5.4",
     "nodemon": "^1.12.1",
     "ramda": "^0.24.1",
